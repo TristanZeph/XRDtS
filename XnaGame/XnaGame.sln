@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XnaGame", "XnaGame\XnaGame\XnaGame.csproj", "{3DDB2053-A919-466A-8C7A-99966561ACE2}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XnaGameContent", "XnaGame\XnaGameContent\XnaGameContent.contentproj", "{B866C995-4E66-4DC3-9D13-B9CC3FB5152B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DDB2053-A919-466A-8C7A-99966561ACE2}.Debug|x86.ActiveCfg = Debug|x86
+		{3DDB2053-A919-466A-8C7A-99966561ACE2}.Debug|x86.Build.0 = Debug|x86
+		{3DDB2053-A919-466A-8C7A-99966561ACE2}.Release|x86.ActiveCfg = Release|x86
+		{3DDB2053-A919-466A-8C7A-99966561ACE2}.Release|x86.Build.0 = Release|x86
+		{B866C995-4E66-4DC3-9D13-B9CC3FB5152B}.Debug|x86.ActiveCfg = Debug|x86
+		{B866C995-4E66-4DC3-9D13-B9CC3FB5152B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
